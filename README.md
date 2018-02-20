@@ -16,6 +16,14 @@ npm install -g postcss
 Por último corremos gulp
 
 ~~~
+npm install --save-dev postcss-nested
+~~~
+
+~~~
+npm install --save-dev postcss-cssnext
+~~~
+
+~~~
 gulp
 ~~~
 
